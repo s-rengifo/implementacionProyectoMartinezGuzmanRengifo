@@ -1,0 +1,57 @@
+<state>
+  <timestamp value='1764588249468' />
+  <sourceSet name='default'>
+    <source name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/slice/mio.ice'>
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/Datagram.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/Stop.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/LineStop.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/Arc.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/ArcSpeed.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/ProcessingTask.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/ProcessingResult.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/GraphInfo.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/ProcessingException.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/DataNotFoundException.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/InvalidDataException.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/Worker.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/MasterCallback.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/MasterCoordinator.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/GraphBuilder.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/ResultAggregator.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/QueryService.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/StreamSubscriber.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/StreamBroker.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/BusSimulator.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/StreamCoordinator.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/DatagramListHelper.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/DatagramSeqHelper.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/StopListHelper.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/LineStopListHelper.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/ArcSpeedListHelper.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/ArcSpeedMapHelper.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/TaskListHelper.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/WorkerPrx.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/_WorkerPrxI.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/MasterCallbackPrx.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/_MasterCallbackPrxI.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/MasterCoordinatorPrx.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/_MasterCoordinatorPrxI.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/GraphBuilderPrx.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/_GraphBuilderPrxI.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/ResultAggregatorPrx.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/_ResultAggregatorPrxI.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/QueryServicePrx.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/_QueryServicePrxI.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/StreamSubscriberPrx.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/_StreamSubscriberPrxI.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/StreamBrokerPrx.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/_StreamBrokerPrxI.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/BusSimulatorPrx.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/_BusSimulatorPrxI.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/StreamCoordinatorPrx.java' />
+      <file name='/Users/samuelrengifo/Desktop/ParcialDosPracticoIngSoftIV/proyecto-mio/src/main/java/MIO/_StreamCoordinatorPrxI.java' />
+    </source>
+    <arg value='/opt/homebrew/Cellar/ice/3.7.10/bin/slice2java' />
+    <arg value='-I/opt/homebrew/Cellar/ice/3.7.10/share/ice/slice' />
+  </sourceSet>
+</state>
